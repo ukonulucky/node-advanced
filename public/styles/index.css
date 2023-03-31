@@ -1,0 +1,17 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+h2{
+    font-size: 1.5rem;
+    color:crimson
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    margin-left: 40px;
+    margin-top: 20px;
+}

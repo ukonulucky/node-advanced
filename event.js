@@ -3,7 +3,6 @@ const EventEmiter = require('events')
 const celebrity = new  EventEmiter()
 
 
-// fan 1 subscribing to the events
 
 celebrity.on("won race", (data) => {
    if(data === "gold"){
